@@ -1,0 +1,28 @@
+{
+    "ratingsLogChannelId": "1455949955905622181",
+    "ticketStatusChannelId": "1455949955905622181",
+    "ticketSystemStatusChannelId": "1455949955905622181",
+    "ticketCategories": {
+        "complaints": {
+            "label": "تقديم على العصابة",
+            "emoji": "<:familia_noir:1456050133165936680>",
+            "parentCategoryId": "1455987356375974020",            
+            "roleId": "1455949856144228564",             
+            "logChannelId": "1455949955905622181"
+        },                                                       
+        "support": {
+            "label": "الدعم الفني ",
+            "emoji": "<:familia_noir:1456050080992854219>",
+            "parentCategoryId": "1455987232656724050",
+            "roleId": "1455987491940339846",
+            "logChannelId": "1455949955905622181" 
+        },
+        "suggestions": {
+            "label": "الاستفسارات ",
+            "emoji": "<:familia_noir:1456049899844931717>",
+            "parentCategoryId": "1456051668935512245",
+            "roleId": "1455987491940339846",
+            "logChannelId": "1455949955905622181"
+        }
+    }
+}
