@@ -1,0 +1,25 @@
+{
+  "ticketSystemStatus": "online",
+  "blacklist": {},
+  "tickets": {
+    "1412606192441626717": {
+      "ownerId": "1243285533925310464",
+      "ticketNumber": 3,
+      "category": "complaints",
+      "channelId": "1412606192441626717",
+      "openTimestamp": 1756861873653,
+      "status": "open",
+      "claimedBy": "1243351960967450678"
+    },
+    "1412913749794226267": {
+      "ownerId": "1243351960967450678",
+      "ticketNumber": 11,
+      "category": "support",
+      "channelId": "1412913749794226267",
+      "openTimestamp": 1756935200132,
+      "status": "open",
+      "claimedBy": "1243351960967450678"
+    }
+  },
+  "ticketCount": 11
+}
